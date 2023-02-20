@@ -1,2 +1,3 @@
 Test file number 2
 Lorem Ipsum
+Lorem Ipsum text 2
